@@ -1,11 +1,11 @@
 {
-  "name": "KompiTextAja",
-  "short_name": "KompiTextAja",
-  "start_url": "https://kompitext.blogspot.com/",
+  "name": "Dwi Hari",
+  "short_name": "Dwi Hari",
+  "start_url": "https://dwihari.web.id/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#C51162",
-  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "description": "Blog tentang dunia pendidikan dan akuntansi. Membahas mengenai pengelolaan keuangan daerah, Akuntansi, Jurnal, Pengelolaan Aset, ekonomi pembangunan dan investasi.",
   "icons": [{
     "src": "https://3.bp.blogspot.com/-OZ5ZflWzVTQ/W_-2oo28NuI/AAAAAAAA7IU/E4aWUVZGtWAlRAl6VnxF7g8o6Q_OUt9ZwCLcBGAs/s48/icon_kta.png",
     "sizes": "48x48",
