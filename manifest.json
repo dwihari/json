@@ -1,0 +1,38 @@
+{
+  "name": "Dwihari",
+  "short_name": "dwihari",
+  "start_url": "https://dwihari.web.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Dwihari.web.id adalah sebuah blog yang membahas mengenai akuntansi, keuangan daerah, bisnis, pendidikan, gaya hidup, lingkungan hidup dan tekhnologi.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-97EHjj-0vys/XTqwBH97iTI/AAAAAAAABiM/DEmBIu8jfi4Rk3cWHFMZ3gc0E6J2bwh8wCLcBGAs/s1600/icon_32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-97EHjj-0vys/XTqwBH97iTI/AAAAAAAABiM/DEmBIu8jfi4Rk3cWHFMZ3gc0E6J2bwh8wCLcBGAs/s1600/icon_32.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-97EHjj-0vys/XTqwBH97iTI/AAAAAAAABiM/DEmBIu8jfi4Rk3cWHFMZ3gc0E6J2bwh8wCLcBGAs/s1600/icon_32.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gXSbEI2k14Y/XTqs5DC0lQI/AAAAAAAABhw/uv9rWy27iOY0_NoaLZ-qEAbw9J8l_yDRQCEwYBhgL/s1600/icon_144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KD3cGNR7NYY/XTqs9bZbIpI/AAAAAAAABhk/KvF6d8FwQ28SOstUekgzv8YnkG6C16LsACEwYBhgL/s1600/icon_180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-b6-WcwQt4nE/XTqtDeLXs7I/AAAAAAAABhs/S2zWn_LZZvIpLf0_mV_7ktPqdoigI_N7gCEwYBhgL/s1600/icon192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-3dmPGS-eirM/XTqtBSuVM9I/AAAAAAAABho/4FTnq_04bNY7xmxtxiMEWL8KP5oZmsGAwCEwYBhgL/s1600/icon_300.png",
+    "sizes": "300x300",
+    "type": "image/png"
+  }]
+}
